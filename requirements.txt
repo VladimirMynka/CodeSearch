@@ -1,2 +1,5 @@
 pandas~=1.4.0
 scikit-learn~=1.0.2
+
+tqdm~=4.62.3
+tree_sitter~=0.20.1
